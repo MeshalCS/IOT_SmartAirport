@@ -1,3 +1,4 @@
 # IOT_SmartAirport
-About
-Deep learning project showcases my participation for data science camp by SDAIA
+
+In this project 
+I will showcases Smart Airport, of my participation for Internet of things course by (The Saudi Federation for Cybersecurity, Programming and Drones "SAFCSP")
